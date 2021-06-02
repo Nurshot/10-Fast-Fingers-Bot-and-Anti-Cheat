@@ -11,6 +11,9 @@ sifre_giris.send_keys("pass")   ---> "pass" enter your password.
 driver.get("https://10fastfingers.com/typing-test/english") #change typing test url or stay
 
 
+
+
+
 anticheat.py
 
 email_giris.send_keys("mail")   ---> "mail@example.com" enter your mail.
