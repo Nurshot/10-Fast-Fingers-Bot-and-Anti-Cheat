@@ -12,7 +12,7 @@ driver.get("https://10fastfingers.com/typing-test/english") #change typing test 
 
 send_delayed_keys(yazigiris, kelime, 0.03)   ---> "0.03" text speed if your increase value takes longer to write.
 
-
+ 
 
 
 anticheat.py
