@@ -2,7 +2,7 @@
 
 
 10fast.py 
-
+____________________________________________________________________________________________________
 
 email_giris.send_keys("mail")   ---> "mail@example.com" enter your mail.
 
@@ -16,6 +16,7 @@ send_delayed_keys(yazigiris, kelime, 0.03)   ---> "0.03" text speed if your incr
 
 
 anticheat.py
+____________________________________________________________________________________________________
 
 email_giris.send_keys("mail")   ---> "mail@example.com" enter your mail.
 
