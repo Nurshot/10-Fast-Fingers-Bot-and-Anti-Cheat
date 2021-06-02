@@ -26,3 +26,6 @@ anticheaturl= "https://10fastfingers.com/anticheat/view/1/1"   ---> anticheat ur
 
 send_delayed_keys(fastfingerinput, copytext, 0.01)    ---> "0.01" text speed if your increase value takes longer to write.
 ____________________________________________________________________________________________________
+
+IMPORTANT
+resim= "C:\\Users\\Administrator\\Desktop\\selenium\\ocr.jpg" ----> Write the path of wherever you put the file.
